@@ -1,0 +1,15 @@
+{
+  "name": "corvid-data",
+  "version": "1.0.0",
+  "description": "Returned Data From Microsoft api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Wisdom Ekpot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5"
+  }
+}
